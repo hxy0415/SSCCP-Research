@@ -31,6 +31,9 @@ The Python code provided requires the installation of the scikit-learn library [
 
 Sleep-EDFX dataset is avaiable in the PhysioNet [5,6].
 
+**The details of the experiment and the description of the algorithms are shown in our article and the Webpage: https://www.info.kindai.ac.jp/~shirahama/ssscp/
+
+
 
 ########
 # Size #
