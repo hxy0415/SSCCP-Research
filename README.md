@@ -9,9 +9,7 @@
                        University of Lübeck, Germany         Kindai University, Japan
 #################################################################################################################
 
-** If you want use our codes, please reference the following publication[1]: 
-
-[1] Xinyu Huang, Kimiaki Shirahama, Frédéric Li and Marcin Grzegorzek, Sleep stage classification for child patients using DeConvolutional Neural Network, Artificial Intelligence in Medicine, vol.110, pp.101981, 2020. DOI:10.1016/j.artmed.2020.101981.
+** If you want use our codes, please reference the following publication[1] !
 
 
 ###############
